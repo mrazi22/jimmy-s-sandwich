@@ -1,0 +1,189 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    list-style-type: none;
+}
+.header{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 100px;
+}
+.ioto{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 30px;
+    
+}
+.bunda{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    margin: 10px;
+    font-weight: 900;
+    margin-right: 80px;
+
+   
+}
+.LOGIN{
+    margin-top: 30px;
+    margin-right: 80px;
+    
+
+}
+.bibi2{
+    text-decoration: none;
+    font-size: 24px;
+    color: white;
+    margin: 25px;
+    font-weight: 900;
+
+}
+.ORDERNOW{
+    margin-right:60px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+.btn22{
+    color:white;
+    height: 50px;
+    width: 150px;
+    background-color: red;
+    font-size: 20px;
+    border: none;
+    font-weight: bolder;
+    
+   
+}
+.logo{
+    margin-top: 10px;
+    margin-left: 5px;
+}   
+.footer1{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.logo2{
+    margin-left: 40px;
+    margin-top: 20px;
+    border-right: 1px inset grey;
+    padding-right: 20px;
+    display: inline-block;
+    height: 300px;
+    
+}
+.contents{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 250px;
+    border-right:1px inset grey ;
+    height: 300px;
+    
+    
+}
+.Maza{
+    margin: 50px;
+   
+}
+.Maziga{
+   color: white;
+   text-decoration: none;
+   font-weight: 500;
+}
+.banda{
+    color: white;
+    text-decoration: none;
+    
+
+}
+.right-buttons{
+   
+   display: flex;
+   flex-direction: row;
+   height: 60px;
+   margin-top: 50px;
+   margin-left: 20px;
+   
+}
+.btn33{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    border: 1px solid white;
+    margin: 5px;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 4px;
+    
+    
+}
+.Morda{
+    margin-bottom: 10px;
+}
+.lastlast{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    justify-content: space-between;
+    border-top: 1px solid gray;
+    
+}
+.miti{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    
+}
+.toto{
+    text-decoration: none;
+    margin: 12px;
+    color: gray;
+    border-right: 1px solid gray;
+    padding-right: 10px;
+
+}
+.right1{
+    margin-top: 30px;
+    margin-right: 60px;
+}
+.Mato{
+    margin: 5px;
+    padding: 10px;
+   
+}
+.texta{
+    background-color: black;
+    color: gray;
+    
+}
+.mixi{
+    font-size: 15px;
+}
+.one{
+    background-color: red;
+    color: white;
+    flex-direction: column;
+    padding-left: 20px;
+}
+.button{
+    background-color: black;
+    color:white;
+    width: 200px;
+    height: 70px;
+    text-align: center;
+    padding-top: 20px;
+    text-decoration: none;
+}
+.image1{
+    float: right;
+    width: 900px;
+    height: 500px;
+    margin-right: auto;
+}
